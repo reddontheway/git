@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 OkHttp
 ======
 
@@ -176,3 +177,6 @@ limitations under the License.
  [recipes]: https://square.github.io/okhttp/recipes/
  [snap]: https://s01.oss.sonatype.org/content/repositories/snapshots/
  [tls_history]: https://square.github.io/okhttp/tls_configuration_history/
+=======
+# git
+>>>>>>> 9d10bc3a845cc921f233f7e05266a426083027c7
